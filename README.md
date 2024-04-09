@@ -1,1 +1,1 @@
-Malo naprednija varijanta od prosle. Klase, Statesment i metode.
+Malo naprednija varijanta od prosle. Klase, State i metode.
