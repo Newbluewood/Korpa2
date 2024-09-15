@@ -26,6 +26,14 @@
     color: rgb(37, 81, 121);
 }
 
+#cartState {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(212, 212, 212);
+    border-radius: 25px;
+    padding: 3px;
+}
+
 .cart-item {
     border: 1px solid green;
     display: grid;
