@@ -2,6 +2,8 @@
 
 Malo naprednija jednostranična šoping-korpa u odnosu na raniju verziju — **klase, zajedničko stanje (stanje na lageru / količine) i metode**, bez Reacta ili build alata.
 
+**Živa verzija:** [e-korpa2.netlify.app](https://e-korpa2.netlify.app/)
+
 ## Šta aplikacija uključuje
 
 - Prikaz proizvoda u gridu iz lokalnog objekta „kataloga” (`PROIZVODI`).
